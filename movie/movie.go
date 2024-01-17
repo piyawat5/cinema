@@ -1,5 +1,7 @@
 package movie
 
-func Review() string {
-	return "8.8888"
+import "fmt"
+
+func Review() {
+	fmt.Println("Review!!!")
 }
