@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-movie:=movie.Movie()
+movie:=movie.Review()
 fmt.Println(movie)
 }

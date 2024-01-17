@@ -1,5 +1,5 @@
 package movie
 
-func Movie() string {
-	return "Movie"
+func Review() string {
+	return "8.8888"
 }
